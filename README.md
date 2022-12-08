@@ -1,6 +1,6 @@
 # Vermeer-Attributions: Current and Historical
 
-With its Digital Art History Lab (DAHL), the Frick Art Reference Library seeks to encourage the use of digital tools in art historical inquiry. By providing datasets, workshops, and access to tools, the DAHL hopes to facilitate the collaboration between art historians and scholars from a variety of fields. The datasets presented are related to works of art currently or once attributed to Vermeer.
+With its Digital Art History Lab [DAHL]( https://www.frick.org/research/DAHL), the Frick Art Reference Library seeks to encourage the use of digital tools in art historical inquiry. By providing datasets, workshops, and access to tools, the DAHL hopes to facilitate the collaboration between art historians and scholars from a variety of fields. The datasets presented are related to works of art currently or once attributed to Vermeer.
 
 The dataset contains 203 works of art that were once or are currently attributed to the seventeenth-century Dutch artist Johannes Vermeer (1632–1675). At present, only thirty-five paintings are considered authentic. With this dataset, art historians may uncover hidden connections of provenance, attribution, style, and more between the thirty-five authentic Vermeers and the 167 other paintings, which range from forgeries and misattributions to lost or contested works. The dataset was created with a spirit of exploration and experimentation for those wanting a dataset with which to explore digital art history tools.
 
@@ -8,7 +8,7 @@ When possible, each entry in the Vermeer dataset includes information regarding 
 
 The datasets are available in CSV format and JSON. We have used the standard UTF-8 encoding for our CSV files. The data in each file is identical. Both forms are provided for your convenience.
 
-These datasets are placed in the public domain using a CC0 License.
+These datasets are placed in the public domain using a [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Usage Guidelines
 While this dataset is open under a CC0 license, we have included a few guidelines that we encourage you to follow when using this data.
