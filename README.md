@@ -17,7 +17,7 @@ While this dataset is open under a CC0 license, we have included a few guideline
 We have included links to the images in the Vermeer dataset whenever possible. However, please note that these images may be licensed differently. Additionally, while the Frick Art Reference Library’s Photoarchive includes some of these images, they may only be available for on-site consultation.
 
 ### Dataset Integrity
-While we have worked hard to provide a complete dataset, the information included in this dataset may not be complete or accurate. We are offering the datasets as-is and wish to make no warranties or representations of any kind. If you encounter any errors or issues, please get in touch with us at dahlprograms@frick.org. We plan to update the datasets with new and revised information on semi-regularly. Therefore, you are advised to update your copy regularly to ensure you are using the best available information.
+While we have worked hard to provide a complete dataset, the information included in this dataset may not be complete or accurate. We are offering the datasets as-is and wish to make no warranties or representations of any kind. If you encounter any errors or issues, please get in touch with us at dahlprograms@frick.org. We plan to update the datasets with new and revised information semi-regularly. Therefore, you are advised to update your copy regularly to ensure you are using the best available information.
 
 ### Pull Requests
 We cannot accept pull requests for the data at this time. However, if you find a mistake or have a correction or a suggestion for improvement, please contact dahlprograms@frick.org.
